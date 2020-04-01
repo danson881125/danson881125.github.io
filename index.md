@@ -8,7 +8,7 @@ Graduate Student in Electrical Engineering and Computer Sciences at Unversity of
   <summary>
     <font style="font-size:1.0em;font-weight:bold;font-style:italic;font-color:black;">Graduate Researcher</font>
     <font style="font-size:0.8em;">Center for Long-Term Cybersecurity</font><br/>
-    <font style="font-size:0.5em;font-style:italic;">&nbsp;&nbsp;Jan 2019 - Present</font>
+    <font style="font-size:0.5em;font-style:italic;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jan 2019 - Present</font>
     <font style="font-size:0.5em;font-style:italic;">&nbsp;・&nbsp;UC Berkeley</font>
   </summary>
 (Began as an undergraduate research assistant) Supervised by Prof. Dawn Song and collaborated with postdoctoral researcher Min Du on research projects related to deep learning and security.
