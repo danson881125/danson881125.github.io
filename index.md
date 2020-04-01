@@ -1,8 +1,7 @@
-### About
+## About
 
-Graduate Student in Electrical Engineering and Computer Sciences at Unversity of California, Berkeley
+Graduate Student in Electrical Engineering and Computer Sciences at Unversity of California, Berkeley<br/>
 
-<br/>
 ### Experience
 
 <details>
