@@ -6,7 +6,7 @@ Graduate Student in Electrical Engineering and Computer Sciences at Unversity of
 
 <details>
   <summary>
-    Graduate Researcher
+    <font size='5' color='black'>Graduate Researcher</font><br/>
     Center for Long-Term Cybersecurity
     Jan 2019 - Present
     UC Berkeley
