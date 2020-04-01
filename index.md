@@ -6,8 +6,8 @@ Graduate Student in Electrical Engineering and Computer Sciences at Unversity of
 
 <details>
   <summary>
-    <font style="font-size:1.1em;font-weight:bold;font-style:italic;font-color:black;">Graduate Researcher</font>
-    <font style="font-size:0.8em;">Center for Long-Term Cybersecurity</font>
+    <font style="font-size:1.0em;font-weight:bold;font-style:italic;font-color:black;">Graduate Researcher</font>
+    <font style="font-size:0.8em;">Center for Long-Term Cybersecurity</font><br/>&nbsp&nbsp
     <font style="font-size:0.5em;font-style:italic;">Jan 2019 - Present</font>
     <font style="font-size:0.5em;font-style:italic;">UC Berkeley</font>
   </summary>
