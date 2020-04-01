@@ -6,12 +6,11 @@ Graduate Student in Electrical Engineering and Computer Sciences at Unversity of
 
 <details>
   <summary>
-    <h6>Graduate Researcher</h6><br/>
-    Center for Long-Term Cybersecurity
-    Jan 2019 - Present
-    UC Berkeley
+    <font font-size='1.0em' font-weight='bold'>Graduate Researcher</font><br/>
+    <font font-size='0.9em'>Center for Long-Term Cybersecurity</font><br/>
+    <font font-size='0.8em' font-style='italic'>Jan 2019 - Present</font><br/>
+    <font font-size='0.8em' font-style='italic'>UC Berkeley</font>
   </summary>
-  <pre>
 (Began as an undergraduate research assistant) Supervised by Prof. Dawn Song and collaborated with postdoctoral researcher Min Du on research projects related to deep learning and security.
 
 Lifelong anomaly detection through unlearning:
@@ -34,7 +33,6 @@ NDSGD: A practical method to improve robustness of deep learning model on noisy 
 • Used noisy data clipping and group to reduce the influence of noisy data.
 • Added robustness factors to reduce the oscillation of the loss curve and tune the hyper-parameters to learn optimal models.
 • Evaluated the celebrated datasets and the performance surpassed the state-of-the-art.
-  </pre>
 </details>
 
 
@@ -57,7 +55,6 @@ Participated in a project on database security, i.e., assisted in parsing unstru
     May 2018 - Nov 2018
     UC Berkeley
   </summary>
-  <pre>
 Collaborated with PhD student Xiangyu Yue (Advisor: Prof. Kurt Keutzer) on research projects related to deep learning.
 
 Domain Adaptation for Road-object Segmentation:
@@ -66,7 +63,6 @@ Domain Adaptation for Road-object Segmentation:
 Autonomous driving with SqueezeNet and CNN:
 • Developed Convolutional Neural Network (CNN) models in TensorFlow to classify images.
 • Conducted image segmentation on KITTI dataset and model training based on SqueezeNet and CNN, aiming to collect data from GTA-V (an action-adventure video game) and further using this dataset to train CNN model for autonomous driving.
-  </pre>
 </details>
 
 
