@@ -72,3 +72,10 @@ Autonomous driving with SqueezeNet and CNN:
 2019-2020 | University of California,Berkeley<br/>Master of Science,Electrical Engineering and Computer Sciences
 2016-2019 | University of California,Berkeley<br/>Bachelor of Science,Electrical Engineering and Computer Sciences
 2015-2015 | Duke University<br/>Economics
+
+<br/>
+### Skills
+
+------------------------- | -------------------------
+Languages | C/C++, Python, Java, SQL, Ruby
+Frameworks | Pytorch, Tensorflow, Rails, Cucumber
