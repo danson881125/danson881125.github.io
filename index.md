@@ -2,6 +2,7 @@
 
 Graduate Student in Electrical Engineering and Computer Sciences at Unversity of California, Berkeley
 
+<br/>
 ### Experience
 
 <details>
@@ -69,9 +70,18 @@ Autonomous driving with SqueezeNet and CNN:
 ### Education
 
 ------------------------- | -------------------------
-2019-2020 | University of California,Berkeley<br/>Master of Science,Electrical Engineering and Computer Sciences
-2016-2019 | University of California,Berkeley<br/>Bachelor of Science,Electrical Engineering and Computer Sciences
-2015-2015 | Duke University<br/>Economics
+2019-2020 | <font style="font-size:1.0em;font-weight:bold;font-style:italic;font-color:black;">University of California,Berkeley</font><br/>Master of Science,Electrical Engineering and Computer Sciences
+2016-2019 | <font style="font-size:1.0em;font-weight:bold;font-style:italic;font-color:black;">University of California,Berkeley</font><br/>Bachelor of Science,Electrical Engineering and Computer Sciences
+2015-2015 | <font style="font-size:1.0em;font-weight:bold;font-style:italic;font-color:black;">Duke University</font><br/>Economics
+
+<br/>
+### Honors&Awards
+
+------------------------- | -------------------------
+May 2019 | <font style="font-size:1.0em;font-weight:bold;font-style:italic;font-color:black;">B.S. Honors</font><br/>Master of Science,Electrical Engineering and Computer Sciences
+May 2018 | <font style="font-size:1.0em;font-weight:bold;font-style:italic;font-color:black;">Dean's List</font><br/>Bachelor of Science,Electrical Engineering and Computer Sciences
+May 2017 | <font style="font-size:1.0em;font-weight:bold;font-style:italic;font-color:black;">Dean's List</font><br/>Economics
+May 2016 | <font style="font-size:1.0em;font-weight:bold;font-style:italic;font-color:black;">Finalist</font><br/>Economics
 
 <br/>
 ### Skills
