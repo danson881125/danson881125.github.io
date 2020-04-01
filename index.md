@@ -8,7 +8,7 @@ Graduate Student in Electrical Engineering and Computer Sciences at Unversity of
   <summary>
     <font style="font-size:1.0em;font-weight:bold;font-style:italic;font-color:black;">Graduate Researcher</font>
     <font style="font-size:0.8em;">Center for Long-Term Cybersecurity</font><br/>
-    <font style="font-size:0.5em;font-style:italic;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jan 2019 - Present</font>
+    <font style="font-size:0.5em;font-style:italic;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jan 2019 - Present</font>
     <font style="font-size:0.5em;font-style:italic;">&nbsp;・&nbsp;UC Berkeley</font>
   </summary>
 (Began as an undergraduate research assistant) Supervised by Prof. Dawn Song and collaborated with postdoctoral researcher Min Du on research projects related to deep learning and security.
@@ -38,10 +38,10 @@ NDSGD: A practical method to improve robustness of deep learning model on noisy 
 
 <details>
   <summary>
-    Research Intern
-    Alibaba Group ・ Internship
-    Dec 2018 - Jan 2019
-    Hangzhou,China
+    <font style="font-size:1.0em;font-weight:bold;font-style:italic;font-color:black;">Research Intern</font>
+    <font style="font-size:0.8em;">Alibaba Group ・ Internship</font><br/>
+    <font style="font-size:0.5em;font-style:italic;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dec 2018 - Jan 2019</font>
+    <font style="font-size:0.5em;font-style:italic;">&nbsp;・&nbsp;Hangzhou,China</font>
   </summary>
   
 Participated in a project on database security, i.e., assisted in parsing unstructured, free-text log entries into structured representation and developing Long Short-Term Memory (LSTM) model for detection of abnormal conditions of database.
@@ -50,10 +50,10 @@ Participated in a project on database security, i.e., assisted in parsing unstru
 
 <details>
   <summary>
-    Research Assistant
-    Berkeley Artificial Intelligence Research
-    May 2018 - Nov 2018
-    UC Berkeley
+    <font style="font-size:1.0em;font-weight:bold;font-style:italic;font-color:black;">Research Assistant</font>
+    <font style="font-size:0.8em;">Berkeley Artificial Intelligence Research</font><br/>
+    <font style="font-size:0.5em;font-style:italic;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;May 2018 - Nov 2018</font>
+    <font style="font-size:0.5em;font-style:italic;">&nbsp;・&nbsp;UC Berkeley</font>
   </summary>
 Collaborated with PhD student Xiangyu Yue (Advisor: Prof. Kurt Keutzer) on research projects related to deep learning.
 
