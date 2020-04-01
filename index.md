@@ -6,10 +6,13 @@ Graduate Student in Electrical Engineering and Computer Sciences at Unversity of
 
 <details>
   <summary>
-    ### Graduate Researcher
+    Graduate Researcher
+    Center for Long-Term Cybersecurity
+    Jan 2019 - Present
+    UC Berkeley
   </summary>
   <pre>
-    (Began as an undergraduate research assistant) Supervised by Prof. Dawn Song and collaborated with postdoctoral researcher Min Du on research projects related to deep learning and security.
+(Began as an undergraduate research assistant) Supervised by Prof. Dawn Song and collaborated with postdoctoral researcher Min Du on research projects related to deep learning and security.
 
 Lifelong anomaly detection through unlearning:
 • Developed LSTM models to analyze system log files.
@@ -33,6 +36,39 @@ NDSGD: A practical method to improve robustness of deep learning model on noisy 
 • Evaluated the celebrated datasets and the performance surpassed the state-of-the-art.
   </pre>
 </details>
+
+
+<details>
+  <summary>
+    Research Intern
+    Alibaba Group ・ Internship
+    Dec 2018 - Jan 2019
+    Hangzhou,China
+  </summary>
+  <pre>
+Participated in a project on database security, i.e., assisted in parsing unstructured, free-text log entries into structured representation and developing Long Short-Term Memory (LSTM) model for detection of abnormal conditions of database.
+  </pre>
+</details>
+
+<details>
+  <summary>
+    Research Assistant
+    Berkeley Artificial Intelligence Research
+    May 2018 - Nov 2018
+    UC Berkeley
+  </summary>
+  <pre>
+Collaborated with PhD student Xiangyu Yue (Advisor: Prof. Kurt Keutzer) on research projects related to deep learning.
+
+Domain Adaptation for Road-object Segmentation:
+• Developed a semantic-based scene method which enables to realize 3D-object segmentation from a point-wise label map, using a domain-adaptation training method to reduce the distribution gap between synthetic data and real data so as to enhance the performance of model.
+
+Autonomous driving with SqueezeNet and CNN:
+• Developed Convolutional Neural Network (CNN) models in TensorFlow to classify images.
+• Conducted image segmentation on KITTI dataset and model training based on SqueezeNet and CNN, aiming to collect data from GTA-V (an action-adventure video game) and further using this dataset to train CNN model for autonomous driving.
+  </pre>
+</details>
+
 
 ```markdown
 Syntax highlighted code block
