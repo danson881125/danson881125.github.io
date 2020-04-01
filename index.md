@@ -2,7 +2,7 @@
 
 Graduate Student in Electrical Engineering and Computer Sciences at Unversity of California, Berkeley
 
-## Experience
+### Experience
 
 <details>
   <summary>
@@ -65,9 +65,10 @@ Autonomous driving with SqueezeNet and CNN:
 • Conducted image segmentation on KITTI dataset and model training based on SqueezeNet and CNN, aiming to collect data from GTA-V (an action-adventure video game) and further using this dataset to train CNN model for autonomous driving.
 </details>
 
-## Education
+<br/>
+### Education
 
-------------------------- | ------------------------- | -------------------------
-2019-2020 | University of California,Berkeley | Master of Science,Electrical Engineering and Computer Sciences
-2016-2019 | University of California,Berkeley | Bachelor of Science,Electrical Engineering and Computer Sciences
-2015-2015 | Duke University | Economics
+------------------------- | -------------------------
+2019-2020 | University of California,Berkeley<br/>Master of Science,Electrical Engineering and Computer Sciences
+2016-2019 | University of California,Berkeley<br/>Bachelor of Science,Electrical Engineering and Computer Sciences
+2015-2015 | Duke University<br/>Economics
