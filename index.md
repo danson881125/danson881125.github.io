@@ -45,9 +45,9 @@ NDSGD: A practical method to improve robustness of deep learning model on noisy 
     Dec 2018 - Jan 2019
     Hangzhou,China
   </summary>
-  <pre>
+  
 Participated in a project on database security, i.e., assisted in parsing unstructured, free-text log entries into structured representation and developing Long Short-Term Memory (LSTM) model for detection of abnormal conditions of database.
-  </pre>
+  
 </details>
 
 <details>
